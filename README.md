@@ -1,13 +1,11 @@
-Exploratory Data Analysis using Python
-
 Name: Pranshu Ranjan
 Registration Number: 23BDS0249
 Course: Exploratory Data Analysis (EDA)
-Platform: Google Colab
-Language: Python
 
-Project Overview
+using Python on Google Colab
 
+**_Project Overview_
+**
 This repository contains the implementation of Exploratory Data Analysis and various statistical and machine learning techniques using Python.
 
 The analysis is performed on the PhD Publications dataset, which contains information about researchers, their publication records, academic prestige, gender, marital status, number of children, and mentor publications.
