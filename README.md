@@ -1,5 +1,7 @@
 Name: Pranshu Ranjan
+
 Registration Number: 23BDS0249
+
 Course: Exploratory Data Analysis (EDA)
 
 using Python on Google Colab
