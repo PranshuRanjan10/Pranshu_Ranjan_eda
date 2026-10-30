@@ -4,8 +4,8 @@ Course: Exploratory Data Analysis (EDA)
 
 using Python on Google Colab
 
-**_Project Overview_
-**
+_Project Overview_
+
 
 This repository contains the implementation of Exploratory Data Analysis and various statistical and machine learning techniques using Python.
 
